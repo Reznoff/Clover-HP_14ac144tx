@@ -1,0 +1,43 @@
+
+Clover Installer r5103 (3f3b85da) (v1.1.1), 2020-02-02 12:31:50
+macOS Version 10.15.2 (Build 19C57)
+SELF = /Users/kemalmaulana/Downloads/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/kemalmaulana/Desktop/CloverBackUp/KINGSTON SHFS37A120G Media/r5101_2020-02-02_12-31-43/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/AudioDxe.efi
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/Fat.efi
++ ../UEFI/VBoxExt4.efi
++ ../UEFI/Ps2MouseDxe.efi
++ ../UEFI/UsbKbDxe.efi
++ ../UEFI/UsbMouseDxe.efi
++ ../UEFI/OsxAptioFix3Drv.efi
++ ../UEFI/CsmVideoDxe.efi
++ ../UEFI/EmuVariableUefi.efi
++ ../UEFI/EnglishDxe.efi
++ ../BIOS/AudioDxe.efi
++ ../BIOS/FSInject.efi
++ ../BIOS/SMCHelper.efi
++ ../BIOS/XhciDxe.efi
++ ../BIOS/ApfsDriverLoader.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
